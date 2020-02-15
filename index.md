@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Performance Advisor : Agence conseil en performance digitale
 
-You can use the [editor on GitHub](https://github.com/perfadvisor/digitalperformance/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+L'ère digitale a fondamentalement changé notre façon d'acheter. Les relations entre les clients et les marques sont de plus en plus transparentes. Les acheteurs ont un accès sans précédent aux informations et aux choix. Les marques ont une compréhension plus approfondie des intentions des consommateurs. Et tout cela grâce à un environnement multimédia mobile et digital de plus en plus connecté.
+Performance Advisor est une agence conseil en stratégie de [performance digitale](https://www.perfadvisor.com)  et le data marketing.
+## L'activité
+Performance Advisor fournit des services pour développer les activités des marques de l'acquisition d'audience (en aidant les marques à accroître leur visibilité, en proposant des stratégies ambitieuses et pragmatiques, qui incluent ; l'audit technique et sémantique SEO, l'audit des campagnes media, les recommandations d’optimisations, la définition de feuille de route et les plans media.) à la fidélisation de clients, en passant par l'optimisation de l'expérience utilisateur (Tunnels de vente, optimisations mobile).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/perfadvisor/digitalperformance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Github and Performance Advisor
+Performance Advisor est résolument orienté vers l'utilisation de solutions open source ou freemium  pour optimiser vos dispositifs digitaux. Dans ce contexte l'usage de Github pour héberger les démonstrateurs ou solutions nécessaires parait le meilleurs choix. Les tutoriaux, explications, prises de positions, présentations de cas d'usage, continueront pour leurs parts à être présentés sur le site [UXMetric](https://www.uxmetric.com) .
